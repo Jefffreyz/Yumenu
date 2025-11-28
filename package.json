@@ -5,7 +5,7 @@
     "dev": "webpack serve",
     "build": "webpack --mode production",
     "server": "node server.js",
-    "start": "npm run build && npm run server"
+    "start": "npm run server"
   },
   "dependencies": {
     "react": "^18.2.0",
